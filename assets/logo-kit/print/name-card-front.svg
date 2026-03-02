@@ -1,0 +1,33 @@
+<svg width="1125" height="675" viewBox="0 0 1125 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1125" y2="675" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6F2EA"/>
+      <stop offset="1" stop-color="#F1F6F4"/>
+    </linearGradient>
+    <linearGradient id="mark" x1="80" y1="90" x2="260" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1F4F4B"/>
+      <stop offset="1" stop-color="#122531"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1125" height="675" fill="url(#bg)"/>
+  <rect x="38" y="38" width="1049" height="599" rx="20" stroke="#D4CCBD" stroke-width="2"/>
+
+  <rect x="60" y="60" width="1005" height="555" fill="none" stroke="#C8BEAB" stroke-dasharray="8 8"/>
+
+  <circle cx="172" cy="222" r="98" fill="url(#mark)"/>
+  <path d="M98 239C116 227 133 221 149 219C162 218 172 219 181 221C197 225 212 232 238 252" stroke="#F9E1BA" stroke-width="5" stroke-linecap="round"/>
+  <path d="M92 268C113 251 132 243 151 242C170 240 185 245 201 250C214 255 231 264 246 275" stroke="#BF9863" stroke-width="4" stroke-linecap="round" opacity="0.92"/>
+  <path d="M149 181C149 172.716 155.716 166 164 166C172.284 166 179 172.716 179 181C179 189.284 172.284 196 164 196H150" stroke="#E8EEF0" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M150 196H173" stroke="#E8EEF0" stroke-width="5" stroke-linecap="round"/>
+
+  <text x="310" y="210" fill="#122531" font-size="64" font-weight="700" letter-spacing="1" font-family="Georgia, 'Times New Roman', serif">SAND HILL SPRINGS</text>
+  <text x="314" y="255" fill="#1F4F4B" font-size="30" font-weight="700" letter-spacing="7" font-family="'Helvetica Neue', Arial, sans-serif">INVESTMENT</text>
+  <line x1="314" y1="280" x2="980" y2="280" stroke="#BF9863" stroke-width="2"/>
+
+  <text x="310" y="360" fill="#122531" font-size="31" font-weight="600" font-family="'Helvetica Neue', Arial, sans-serif">Disciplined Long-Term Capital</text>
+  <text x="310" y="404" fill="#40535F" font-size="24" font-weight="500" font-family="'Helvetica Neue', Arial, sans-serif">sandhillspringsinvestment.com</text>
+  <text x="310" y="438" fill="#40535F" font-size="24" font-weight="500" font-family="'Helvetica Neue', Arial, sans-serif">contact@sandhillsprings.com</text>
+
+  <text x="66" y="654" fill="#9A917F" font-size="17" font-family="'Helvetica Neue', Arial, sans-serif">Bleed: 3.75 x 2.25 in  |  Trim: 3.5 x 2.0 in  |  Safe area shown dashed</text>
+</svg>

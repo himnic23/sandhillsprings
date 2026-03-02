@@ -1,0 +1,23 @@
+<svg width="1584" height="396" viewBox="0 0 1584 396" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="20" y1="0" x2="1560" y2="396" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F3EFE6"/>
+      <stop offset="1" stop-color="#E7EEE9"/>
+    </linearGradient>
+    <linearGradient id="mark" x1="70" y1="36" x2="272" y2="258" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1F4F4B"/>
+      <stop offset="1" stop-color="#122531"/>
+    </linearGradient>
+  </defs>
+  <rect width="1584" height="396" fill="url(#bg)"/>
+  <circle cx="198" cy="198" r="132" fill="url(#mark)"/>
+  <path d="M102 221C130 202 156 192 179 190C198 188 213 190 226 193C249 198 267 208 303 235" stroke="#F9E1BA" stroke-width="7" stroke-linecap="round"/>
+  <path d="M95 260C123 238 153 225 180 222C207 219 229 226 252 234C271 241 293 253 310 266" stroke="#BF9863" stroke-width="5.5" stroke-linecap="round" opacity="0.92"/>
+  <path d="M177 143C177 131.402 186.402 122 198 122C209.598 122 219 131.402 219 143C219 154.598 209.598 164 198 164H178" stroke="#E8EEF0" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M178 164H210" stroke="#E8EEF0" stroke-width="7" stroke-linecap="round"/>
+
+  <text x="374" y="183" fill="#122531" font-size="82" font-weight="700" letter-spacing="1.6" font-family="Georgia, 'Times New Roman', serif">SAND HILL SPRINGS</text>
+  <text x="380" y="245" fill="#1F4F4B" font-size="40" font-weight="700" letter-spacing="9" font-family="'Helvetica Neue', Arial, sans-serif">INVESTMENT</text>
+  <line x1="380" y1="270" x2="1460" y2="270" stroke="#BF9863" stroke-width="3"/>
+  <text x="380" y="310" fill="#40535F" font-size="28" font-weight="500" letter-spacing="1" font-family="'Helvetica Neue', Arial, sans-serif">DISCIPLINED LONG-TERM CAPITAL FOR UNDERAPPRECIATED BUSINESSES</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg width="1800" height="460" viewBox="0 0 1800 460" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="core" x1="52" y1="20" x2="390" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1F4F4B"/>
+      <stop offset="1" stop-color="#122531"/>
+    </linearGradient>
+  </defs>
+  <circle cx="220" cy="230" r="170" fill="url(#core)"/>
+  <path d="M95 260C130 236 163 223 193 220C217 217 236 219 253 223C283 230 306 241 355 276" stroke="#F9E1BA" stroke-width="9" stroke-linecap="round"/>
+  <path d="M84 307C122 274 161 257 199 253C235 249 264 258 292 269C317 279 342 292 366 309" stroke="#BF9863" stroke-width="7" stroke-linecap="round" opacity="0.92"/>
+  <path d="M198 160C198 145.088 210.088 133 225 133C239.912 133 252 145.088 252 160C252 174.912 239.912 187 225 187H200" stroke="#E8EEF0" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M200 187H241" stroke="#E8EEF0" stroke-width="9" stroke-linecap="round"/>
+
+  <text x="450" y="210" fill="#122531" font-size="108" font-weight="700" letter-spacing="2" font-family="Georgia, 'Times New Roman', serif">SAND HILL SPRINGS</text>
+  <text x="456" y="286" fill="#1F4F4B" font-size="49" font-weight="700" letter-spacing="11" font-family="'Helvetica Neue', Arial, sans-serif">INVESTMENT</text>
+  <line x1="455" y1="315" x2="1650" y2="315" stroke="#BF9863" stroke-width="3"/>
+  <text x="456" y="358" fill="#40535F" font-size="28" font-weight="500" letter-spacing="1.2" font-family="'Helvetica Neue', Arial, sans-serif">INDEPENDENT INVESTMENT MANAGER</text>
+</svg>
