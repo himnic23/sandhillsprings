@@ -11,6 +11,6 @@
   <path d="M258 420C294 391 332 376 369 373C405 370 433 379 463 390C489 399 520 414 543 431" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" opacity="0.82"/>
   <path d="M366 257C366 239 380 225 398 225C416 225 430 239 430 257C430 275 416 289 398 289H372" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M372 289H421" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
-  <text x="400" y="578" text-anchor="middle" fill="#FFFFFF" font-size="68" font-weight="700" letter-spacing="2" font-family="Georgia, 'Times New Roman', serif">SAND HILL</text>
+  <text x="400" y="578" text-anchor="middle" fill="#FFFFFF" font-size="68" font-weight="700" letter-spacing="2" font-family="Georgia, 'Times New Roman', serif">SANDHILL</text>
   <text x="400" y="644" text-anchor="middle" fill="#F9E1BA" font-size="54" font-weight="700" letter-spacing="4" font-family="'Helvetica Neue', Arial, sans-serif">SPRINGS</text>
 </svg>

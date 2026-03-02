@@ -15,7 +15,7 @@
   <path d="M486 150C486 113.549 515.549 84 552 84C588.451 84 618 113.549 618 150C618 186.451 588.451 216 552 216H492" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M492 216H593" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round"/>
 
-  <text x="563" y="552" text-anchor="middle" fill="#FFFFFF" font-size="70" font-weight="700" letter-spacing="2" font-family="Georgia, 'Times New Roman', serif">SAND HILL SPRINGS</text>
+  <text x="563" y="552" text-anchor="middle" fill="#FFFFFF" font-size="70" font-weight="700" letter-spacing="2" font-family="Georgia, 'Times New Roman', serif">SANDHILL SPRINGS</text>
   <text x="563" y="606" text-anchor="middle" fill="#F9E1BA" font-size="34" font-weight="700" letter-spacing="10" font-family="'Helvetica Neue', Arial, sans-serif">INVESTMENT</text>
 
   <text x="66" y="654" fill="#CAD6DD" font-size="17" font-family="'Helvetica Neue', Arial, sans-serif">Bleed: 3.75 x 2.25 in  |  Trim: 3.5 x 2.0 in  |  Safe area shown dashed</text>

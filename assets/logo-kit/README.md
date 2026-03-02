@@ -1,4 +1,4 @@
-# Sand Hill Springs Investment Logo Kit
+# Sandhill Springs Investment Logo Kit
 
 This folder contains logo assets prepared for web, social, and print use.
 
