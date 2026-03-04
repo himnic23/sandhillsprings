@@ -294,6 +294,33 @@ p {
   margin-bottom: 0.6rem;
 }
 
+.media-frame {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+
+.media-frame img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.hero-media {
+  min-height: 430px;
+}
+
+.hero-media img {
+  min-height: 430px;
+}
+
+.inline-note {
+  color: var(--ink-soft);
+  font-size: 0.94rem;
+}
+
 .list-clean {
   margin: 0;
   padding-left: 1.2rem;

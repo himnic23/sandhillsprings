@@ -1,0 +1,26 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="100" y1="20" x2="1130" y2="740" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F2EEE3"/>
+      <stop offset="1" stop-color="#E5EFE8"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="232" y1="356" x2="915" y2="356" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1F4F4B"/>
+      <stop offset="1" stop-color="#122531"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" rx="36" fill="url(#bg2)"/>
+  <rect x="86" y="86" width="1028" height="588" rx="28" fill="#FCFBF7" stroke="#DAD3C2"/>
+
+  <rect x="166" y="170" width="526" height="420" rx="20" fill="#122531"/>
+  <path d="M230 468C292 412 350 392 411 380C467 369 516 377 561 395C602 412 641 436 691 474" stroke="#F9E1BA" stroke-width="8" stroke-linecap="round"/>
+  <path d="M230 512C302 455 367 435 431 426C498 417 554 433 610 455C641 468 667 482 691 500" stroke="#BF9863" stroke-width="6" stroke-linecap="round"/>
+
+  <rect x="744" y="170" width="290" height="420" rx="20" fill="#F4F0E6" stroke="#D8D0BE"/>
+  <rect x="786" y="220" width="204" height="48" rx="10" fill="url(#bar)"/>
+  <rect x="786" y="292" width="160" height="20" rx="10" fill="#8EA3AE"/>
+  <rect x="786" y="332" width="185" height="20" rx="10" fill="#8EA3AE"/>
+  <rect x="786" y="372" width="140" height="20" rx="10" fill="#8EA3AE"/>
+  <rect x="786" y="412" width="176" height="20" rx="10" fill="#8EA3AE"/>
+  <rect x="786" y="452" width="198" height="20" rx="10" fill="#8EA3AE"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg4" x1="100" y1="20" x2="1080" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F3EFE4"/>
+      <stop offset="1" stop-color="#E8EFEA"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" rx="36" fill="url(#bg4)"/>
+  <rect x="86" y="86" width="1028" height="588" rx="28" fill="#FBFAF7" stroke="#DAD3C3"/>
+
+  <rect x="168" y="170" width="340" height="424" rx="20" fill="#122531"/>
+  <rect x="212" y="216" width="252" height="18" rx="9" fill="#F9E1BA"/>
+  <rect x="212" y="254" width="208" height="12" rx="6" fill="#C9D3D9"/>
+  <rect x="212" y="286" width="228" height="12" rx="6" fill="#C9D3D9"/>
+  <rect x="212" y="318" width="184" height="12" rx="6" fill="#C9D3D9"/>
+  <rect x="212" y="350" width="214" height="12" rx="6" fill="#C9D3D9"/>
+
+  <rect x="542" y="170" width="490" height="424" rx="20" fill="#F5F0E7" stroke="#D7CDBB"/>
+  <path d="M602 496L671 430L744 458L820 362L902 390L968 312" stroke="#1F4F4B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M602 536L690 490L770 508L842 450L920 462L980 410" stroke="#BF9863" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="602" y="226" width="360" height="22" rx="11" fill="#1F4F4B"/>
+  <rect x="602" y="266" width="268" height="14" rx="7" fill="#9BB0B8"/>
+  <rect x="602" y="296" width="294" height="14" rx="7" fill="#9BB0B8"/>
+</svg>
