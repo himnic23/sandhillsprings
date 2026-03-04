@@ -316,6 +316,10 @@ p {
   min-height: 430px;
 }
 
+.hero-photo-home {
+  object-position: 32% center;
+}
+
 .inline-note {
   color: var(--ink-soft);
   font-size: 0.94rem;
